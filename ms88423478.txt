@@ -1,5 +1,0 @@
-﻿{
-  "Description": "웹 사이트 루트의 위치 Microsoft 365에 대한 도메인 소유권 확인 파일",
-  "Domain": "gempack.co.kr",
-  "Id": "c6539594-ca97-4356-ae62-4ed66fcc9629"
-}
